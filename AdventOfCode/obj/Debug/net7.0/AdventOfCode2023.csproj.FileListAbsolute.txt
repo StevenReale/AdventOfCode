@@ -12,3 +12,17 @@ C:\Users\smrea\development\Advanced C# course\AdventOfCode\ConsoleApp1\obj\Debug
 C:\Users\smrea\development\Advanced C# course\AdventOfCode\ConsoleApp1\obj\Debug\net7.0\AdventOfCode2023.pdb
 C:\Users\smrea\development\Advanced C# course\AdventOfCode\ConsoleApp1\obj\Debug\net7.0\AdventOfCode2023.genruntimeconfig.cache
 C:\Users\smrea\development\Advanced C# course\AdventOfCode\ConsoleApp1\obj\Debug\net7.0\ref\AdventOfCode2023.dll
+C:\Users\smrea\development\AdventOfCode\AdventOfCode\bin\Debug\net7.0\AdventOfCode2023.exe
+C:\Users\smrea\development\AdventOfCode\AdventOfCode\bin\Debug\net7.0\AdventOfCode2023.deps.json
+C:\Users\smrea\development\AdventOfCode\AdventOfCode\bin\Debug\net7.0\AdventOfCode2023.runtimeconfig.json
+C:\Users\smrea\development\AdventOfCode\AdventOfCode\bin\Debug\net7.0\AdventOfCode2023.dll
+C:\Users\smrea\development\AdventOfCode\AdventOfCode\bin\Debug\net7.0\AdventOfCode2023.pdb
+C:\Users\smrea\development\AdventOfCode\AdventOfCode\obj\Debug\net7.0\AdventOfCode2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smrea\development\AdventOfCode\AdventOfCode\obj\Debug\net7.0\AdventOfCode2023.AssemblyInfoInputs.cache
+C:\Users\smrea\development\AdventOfCode\AdventOfCode\obj\Debug\net7.0\AdventOfCode2023.AssemblyInfo.cs
+C:\Users\smrea\development\AdventOfCode\AdventOfCode\obj\Debug\net7.0\AdventOfCode2023.csproj.CoreCompileInputs.cache
+C:\Users\smrea\development\AdventOfCode\AdventOfCode\obj\Debug\net7.0\AdventOfCode2023.dll
+C:\Users\smrea\development\AdventOfCode\AdventOfCode\obj\Debug\net7.0\refint\AdventOfCode2023.dll
+C:\Users\smrea\development\AdventOfCode\AdventOfCode\obj\Debug\net7.0\AdventOfCode2023.pdb
+C:\Users\smrea\development\AdventOfCode\AdventOfCode\obj\Debug\net7.0\AdventOfCode2023.genruntimeconfig.cache
+C:\Users\smrea\development\AdventOfCode\AdventOfCode\obj\Debug\net7.0\ref\AdventOfCode2023.dll

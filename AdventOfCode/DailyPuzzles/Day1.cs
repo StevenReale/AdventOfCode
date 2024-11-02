@@ -29,20 +29,9 @@ internal static class Day1
     public static void Part2(List<string> lines)
     {
         int total = 0;
-        //int counter = 0;
         foreach (var line in lines)
         {
             int value = GetValueStringsToo(line);
-            //Console.WriteLine(line + " " + value);
-            //if (counter == 10)
-            //{
-            //    Console.ReadLine();
-            //    counter = 0;
-            //}
-            //else
-            //{
-            //    counter++;
-            //}
             total += value;
         }
         Console.WriteLine(total);
@@ -121,6 +110,8 @@ internal static class Day1
         int right = line.LastOrDefault(char.IsDigit) - '0';
         return 10 * left + right;
     }
+
+    #region Deprecated
     private static int GetValueIntsOnly(string line)
     {
         int leftDigit = -1;
@@ -150,4 +141,5 @@ internal static class Day1
         }
         return 10 * leftDigit + rightDigit;
     }
+    #endregion
 }
